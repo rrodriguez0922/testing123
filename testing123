@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> TAB  </title>
+</head>
+
+<body>
+<p> HTML Buttons are defined with the button tag:</p>
+<button> Click Here! </button>
+<h1> My first peanut butter </h1>
+<h2> My first peanut butter </h2>
+<h3> My first peanut butter </h3>
+<h4> My first peanut butter </h4>
+<h5> My first peanut butter </h5>
+<h6> My first peanut butter </h6>
+
+<a href="https://en.wikipedia.org/wiki/Puppy">  This is a link </a>
+
+<img src="wings.jpg" alt="delish.com" width="500" height="500">
+<ul>
+  <li>coffee</li>
+    <li>milk</li>
+    <li>tea</li>
+    <li>Unordered lists are unordered/bullet list</li>
+
+<ol>
+  <ol>1. coffee</ol>
+  <ol>2. milk</ol>
+  <ol>3. tea</ol>
+  <ol>Ordered lists are ordered/numbered list</ol>
+
+
+
+
+<p>My first paragraph</p>
+
+<body style="background-color:#f09ccd;">
+<h1 style="color:blue"> This is a heading</h1>
+<p style="color:red"> This is a paragraph</p>
